@@ -2,7 +2,6 @@
     author = "Xia, Shuyin and Dai, Xiaochuan and Wang, Guoyin and Gao, Xinbo and Giem, Elisabeth",
     doi = "10.1109/TNNLS.2022.3203381",
     journal = "IEEE Transactions on Neural Networks and Learning Systems",
-    keywords = "Rough sets;Granular computing;Computational modeling;Neural networks;Robustness;Cognitive systems;Support vector machines;Class noise;granular ball (GB);granular-ball computing (GBC);granular computing;GB generation;label noise",
     number = "4",
     pages = "5319-5331",
     title = "{An Efficient and Adaptive Granular-Ball Generation Method in Classification Problem}",
